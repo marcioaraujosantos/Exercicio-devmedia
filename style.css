@@ -1,0 +1,93 @@
+*{
+    margin: 0;
+    padding:0;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+header {
+    text-align: center;
+    background-image: linear-gradient(#b0c4de, #add8ad);
+    background-repeat: no-repeat;
+    padding-top: 20px;
+}
+
+.foto {
+    font-size: 10px;
+}
+
+h1 {
+    font-size: 24px;
+   border: 2px solid black;
+   padding: 8px 1px;
+   margin: 2px 300px;
+   background-color: #d7fbdf;
+}
+
+h2 {
+    font-size: 20px;
+    margin-top: 25px;
+    padding-bottom: 30px;
+    text-decoration: underline overline;
+}
+
+section {
+    background-image: url(assets/ferramentas-da-barbearia.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 400px;
+}
+h3 {
+    font-size: 19px;
+    font-weight: normal;
+    text-align: center;
+    text-decoration: underline ;
+    color: #fff;
+    margin-bottom: 28px
+}
+
+p {
+    font-size: 18px;
+    font-weight: normal;
+    text-align: center;
+    line-height: 1.6;
+    color: #fff;
+}
+
+footer {
+    background-image: linear-gradient(#add8ad, #b0c4dead);
+    background-repeat: no-repeat;
+}
+
+span{
+    font-weight: bold;
+}
+
+.footer {
+    font-size: 20px;
+    color: #000;
+    text-align: center;
+    text-decoration: underline;
+}
+
+.contato {
+    font-size: 16px;
+    color:#000;
+    text-align: center;
+    line-height: 1.6;
+}
+
+div {
+    text-align: center;
+    margin:10px auto;
+}
+
+a {
+    font-size: 16px;
+    background-color: #25d366;
+    padding: 5px 5px;
+    border-radius: 25px;
+    text-decoration: none;
+}
